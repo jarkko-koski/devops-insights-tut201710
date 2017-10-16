@@ -1,6 +1,6 @@
 {
   "name": "WReport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Weather Report",
   "private": true,
   "dependencies": {
